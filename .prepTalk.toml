@@ -1,0 +1,7 @@
+logo = "/usr/local/share/logo_prep-talk_circle.png"
+heading = "Welcome to your Linux Laptop"
+task_total=100
+file = "/usr/local/var/prepTalk.log"
+body = """Thanks for choosing a Linux laptop! \
+    \n We want you to have a few applications and settings configured before you get started with your new laptop. \
+    \n \nThis process should take 20 to 30 minutes to complete. If you need additional software or help, please contact your Sys admin team."""

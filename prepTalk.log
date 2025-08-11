@@ -1,0 +1,4 @@
+task_msg = "Installing Security Software" task_number = 10
+task_msg = "Configuring default Browser" task_number = 65
+task_msg = "finishing touches!!!!" task_number = 99
+task_complete = "True"
