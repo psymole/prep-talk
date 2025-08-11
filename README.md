@@ -1,7 +1,9 @@
 # PrepTalk
 
+![App Logo a gear in a speechbubble](https://github.com/psymole/prep-talk/blob/main/imgs/logo_prep-talk_circle.png)
+
 A simple Linux laptop onboarding application built with [Rust](https://www.rust-lang.org/) and [iced](https://github.com/iced-rs/iced).  
-It guides users through initial configuration steps with progress tracking, messages, and an optional logo — making the setup process more friendly and visual.
+It guides users through initial configuration steps with progress tracking, messages, and an optional logo, making the setup process more friendly and visual.
 
 ---
 
@@ -9,14 +11,16 @@ It guides users through initial configuration steps with progress tracking, mess
 
 - **Custom Welcome Screen** – Set your own heading, body text, and logo.
 - **Live Progress Tracking** – Monitors a `.log` file for task updates.
-- **Progress Bar** – Shows percentage completion based on task number / total.
+- **Progress Bar** – Shows percentage completion based on task number/total.
 - **Configurable via TOML** – Uses `~/.prepTalk.toml` for customization.
 
 ---
 
 ## 📸 Example Screenshot
 *(Optional — add a screenshot here once you have one)*
-
+![main screen, not logs](https://github.com/psymole/prep-talk/blob/main/imgs/Screenshot%20from%202025-08-11%2014-04-11.png)
+![main screen, logs and progress](https://github.com/psymole/prep-talk/blob/main/imgs/Screenshot%20from%202025-08-11%2014-06-36.png)
+![main screen, shows button](https://github.com/psymole/prep-talk/blob/main/imgs/Screenshot%20from%202025-08-11%2014-13-12.png)
 ---
 
 ## 🛠️ Installation & Usage
